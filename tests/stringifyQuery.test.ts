@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import { Doge } from 'doge';
+import { Doge } from '@departmentofgovernmentefficiency/sdk';
 
 const { stringifyQuery } = Doge.prototype as any;
 

@@ -1,5 +1,8 @@
-import { multipartFormRequestOptions, createForm } from 'doge/internal/uploads';
-import { toFile } from 'doge/core/uploads';
+import {
+  multipartFormRequestOptions,
+  createForm,
+} from '@departmentofgovernmentefficiency/sdk/internal/uploads';
+import { toFile } from '@departmentofgovernmentefficiency/sdk/core/uploads';
 
 describe('form data validation', () => {
   test('valid values do not error', async () => {

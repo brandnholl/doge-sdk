@@ -1,10 +1,10 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import { APIPromise } from 'doge/core/api-promise';
+import { APIPromise } from '@departmentofgovernmentefficiency/sdk/core/api-promise';
 
 import util from 'node:util';
-import Doge from 'doge';
-import { APIUserAbortError } from 'doge';
+import Doge from '@departmentofgovernmentefficiency/sdk';
+import { APIUserAbortError } from '@departmentofgovernmentefficiency/sdk';
 const defaultFetch = fetch;
 
 describe('instantiate client', () => {
