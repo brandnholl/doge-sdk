@@ -5,8 +5,8 @@
   "compilerOptions": {
     "rootDir": "./dist/src",
     "paths": {
-      "doge/*": ["dist/src/*"],
-      "doge": ["dist/src/index.ts"]
+      "@departmentofgovernmentefficiency/sdk/*": ["dist/src/*"],
+      "@departmentofgovernmentefficiency/sdk": ["dist/src/index.ts"]
     },
     "noEmit": false,
     "declaration": true,
