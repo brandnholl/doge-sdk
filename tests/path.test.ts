@@ -1,4 +1,7 @@
-import { createPathTagFunction, encodeURIPath } from 'doge/internal/utils/path';
+import {
+  createPathTagFunction,
+  encodeURIPath,
+} from '@departmentofgovernmentefficiency/sdk/internal/utils/path';
 import { inspect } from 'node:util';
 
 describe('path template tag function', () => {

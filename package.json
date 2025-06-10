@@ -1,12 +1,12 @@
 {
-  "name": "doge",
-  "version": "0.0.1-alpha.0",
+  "name": "@departmentofgovernmentefficiency/sdk",
+  "version": "0.0.1-alpha.1",
   "description": "The official TypeScript library for the Doge API",
   "author": "Doge <>",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "type": "commonjs",
-  "repository": "github:stainless-sdks/doge-typescript",
+  "repository": "github:brandnholl/doge-sdk",
   "license": "Apache-2.0",
   "packageManager": "yarn@1.22.22",
   "files": [
@@ -47,8 +47,8 @@
     "typescript": "5.8.3"
   },
   "imports": {
-    "doge": ".",
-    "doge/*": "./src/*"
+    "@departmentofgovernmentefficiency/sdk": ".",
+    "@departmentofgovernmentefficiency/sdk/*": "./src/*"
   },
   "exports": {
     ".": {
