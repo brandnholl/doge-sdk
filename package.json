@@ -1,6 +1,6 @@
 {
   "name": "@departmentofgovernmentefficiency/sdk",
-  "version": "0.0.1-alpha.1",
+  "version": "2.1.25",
   "description": "The official TypeScript library for the Doge API",
   "author": "Doge <>",
   "types": "dist/index.d.ts",
