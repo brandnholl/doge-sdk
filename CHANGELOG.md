@@ -1,5 +1,26 @@
 # Changelog
 
+## 2.2.0 (2025-06-21)
+
+Full Changelog: [v2.1.25...v2.2.0](https://github.com/brandnholl/doge-sdk/compare/v2.1.25...v2.2.0)
+
+### Features
+
+* **client:** add support for endpoint-specific base URLs ([b5040f5](https://github.com/brandnholl/doge-sdk/commit/b5040f52a6c9d6c9f7638eb6ff04dc9a654d3b71))
+
+
+### Bug Fixes
+
+* **client:** explicitly copy fetch in withOptions ([6c21068](https://github.com/brandnholl/doge-sdk/commit/6c21068ad0d9867cc2e1b699e77b3f942b29e5f4))
+
+
+### Chores
+
+* **ci:** enable for pull requests ([1380746](https://github.com/brandnholl/doge-sdk/commit/13807464a1976000ae72e0aaec0c79d63f035a93))
+* **client:** refactor imports ([9885275](https://github.com/brandnholl/doge-sdk/commit/988527579c115f2838114918a852dc38101bb205))
+* **readme:** update badges ([53f7f57](https://github.com/brandnholl/doge-sdk/commit/53f7f57cf6145313b292b97df6f88fe9ebb1a4b7))
+* **readme:** use better example snippet for undocumented params ([1f5b98b](https://github.com/brandnholl/doge-sdk/commit/1f5b98b312ded5f628dd292bd3d10edfd0008fbc))
+
 ## 2.1.25 (2025-06-14)
 
 Full Changelog: [v0.0.1-alpha.1...v2.1.25](https://github.com/brandnholl/doge-sdk/compare/v0.0.1-alpha.1...v2.1.25)
