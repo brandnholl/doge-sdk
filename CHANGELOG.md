@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.2.1 (2025-06-27)
+
+Full Changelog: [v2.2.0...v2.2.1](https://github.com/brandnholl/doge-sdk/compare/v2.2.0...v2.2.1)
+
+### Bug Fixes
+
+* **ci:** release-doctor — report correct token name ([a9e16f8](https://github.com/brandnholl/doge-sdk/commit/a9e16f837e52d02a42f4c344852d75998435a263))
+
 ## 2.2.0 (2025-06-21)
 
 Full Changelog: [v2.1.25...v2.2.0](https://github.com/brandnholl/doge-sdk/compare/v2.1.25...v2.2.0)
