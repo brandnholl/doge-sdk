@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.2.2 (2025-06-27)
+
+Full Changelog: [v2.2.1...v2.2.2](https://github.com/brandnholl/doge-sdk/compare/v2.2.1...v2.2.2)
+
+### Bug Fixes
+
+* **client:** get fetchOptions type more reliably ([ad99f44](https://github.com/brandnholl/doge-sdk/commit/ad99f44ac15f35e4ec070e684977463c9636249f))
+
 ## 2.2.1 (2025-06-27)
 
 Full Changelog: [v2.2.0...v2.2.1](https://github.com/brandnholl/doge-sdk/compare/v2.2.0...v2.2.1)
