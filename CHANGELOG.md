@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.2.3 (2025-06-28)
+
+Full Changelog: [v2.2.2...v2.2.3](https://github.com/brandnholl/doge-sdk/compare/v2.2.2...v2.2.3)
+
+### Chores
+
+* **ci:** only run for pushes and fork pull requests ([eb23f34](https://github.com/brandnholl/doge-sdk/commit/eb23f346fb95e58376a48e2ac93033c9897ca165))
+* **internal:** codegen related update ([43e6da7](https://github.com/brandnholl/doge-sdk/commit/43e6da76686c635a1dc91466fa1a108dd02c135c))
+* **internal:** version bump ([5b667ae](https://github.com/brandnholl/doge-sdk/commit/5b667aef27450f2f9f45a2cccd5f2167d3398cf3))
+
 ## 2.2.2 (2025-06-27)
 
 Full Changelog: [v2.2.1...v2.2.2](https://github.com/brandnholl/doge-sdk/compare/v2.2.1...v2.2.2)
