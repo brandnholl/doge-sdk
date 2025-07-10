@@ -1,5 +1,18 @@
 # Changelog
 
+## 2.2.3 (2025-07-10)
+
+Full Changelog: [v2.2.2...v2.2.3](https://github.com/brandnholl/doge-sdk/compare/v2.2.2...v2.2.3)
+
+### Chores
+
+* add docs to RequestOptions type ([9be0ef1](https://github.com/brandnholl/doge-sdk/commit/9be0ef1f283d522dfbe1376c4be8ee4f4d9b819b))
+* **ci:** only run for pushes and fork pull requests ([eb23f34](https://github.com/brandnholl/doge-sdk/commit/eb23f346fb95e58376a48e2ac93033c9897ca165))
+* **client:** improve path param validation ([f9d251a](https://github.com/brandnholl/doge-sdk/commit/f9d251ab834a00ec9495dd0f4553c3618c429153))
+* **internal:** codegen related update ([43e6da7](https://github.com/brandnholl/doge-sdk/commit/43e6da76686c635a1dc91466fa1a108dd02c135c))
+* **internal:** version bump ([5b667ae](https://github.com/brandnholl/doge-sdk/commit/5b667aef27450f2f9f45a2cccd5f2167d3398cf3))
+* make some internal functions async ([9b4a872](https://github.com/brandnholl/doge-sdk/commit/9b4a872a51d1a0891adb1889766e70ebf194978c))
+
 ## 2.2.2 (2025-06-27)
 
 Full Changelog: [v2.2.1...v2.2.2](https://github.com/brandnholl/doge-sdk/compare/v2.2.1...v2.2.2)
