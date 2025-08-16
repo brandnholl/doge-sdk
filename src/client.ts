@@ -737,8 +737,10 @@ export class Doge {
   savings: API.Savings = new API.Savings(this);
   payments: API.Payments = new API.Payments(this);
 }
+
 Doge.Savings = Savings;
 Doge.Payments = Payments;
+
 export declare namespace Doge {
   export type RequestOptions = Opts.RequestOptions;
 
