@@ -1,5 +1,34 @@
 # Changelog
 
+## 2.3.0 (2025-08-23)
+
+Full Changelog: [v2.2.2...v2.3.0](https://github.com/brandnholl/doge-sdk/compare/v2.2.2...v2.3.0)
+
+### Features
+
+* **mcp:** add code execution tool ([90cad26](https://github.com/brandnholl/doge-sdk/commit/90cad26e76e63bd447648ba7c515cb67c7c3e369))
+
+
+### Chores
+
+* add docs to RequestOptions type ([9be0ef1](https://github.com/brandnholl/doge-sdk/commit/9be0ef1f283d522dfbe1376c4be8ee4f4d9b819b))
+* add package to package.json ([6ab513c](https://github.com/brandnholl/doge-sdk/commit/6ab513cee3aa68f2cf6899a7fb7fbb839e1204c2))
+* **ci:** only run for pushes and fork pull requests ([eb23f34](https://github.com/brandnholl/doge-sdk/commit/eb23f346fb95e58376a48e2ac93033c9897ca165))
+* **client:** improve path param validation ([f9d251a](https://github.com/brandnholl/doge-sdk/commit/f9d251ab834a00ec9495dd0f4553c3618c429153))
+* **client:** qualify global Blob ([759a5f0](https://github.com/brandnholl/doge-sdk/commit/759a5f0773d5d42191ec8d5290035178e10cd6dd))
+* **deps:** update dependency @types/node to v20.17.58 ([4e23718](https://github.com/brandnholl/doge-sdk/commit/4e23718298941fad29a0abb075c20089bd80c1cb))
+* **internal:** codegen related update ([013f0f2](https://github.com/brandnholl/doge-sdk/commit/013f0f2be0750728ca300139315f811f3a5055ee))
+* **internal:** codegen related update ([43e6da7](https://github.com/brandnholl/doge-sdk/commit/43e6da76686c635a1dc91466fa1a108dd02c135c))
+* **internal:** formatting change ([5a2b3b2](https://github.com/brandnholl/doge-sdk/commit/5a2b3b22a66804ad288b89bb05707975027870b0))
+* **internal:** move publish config ([ff24ca3](https://github.com/brandnholl/doge-sdk/commit/ff24ca320f9ff0657beae1033b5eedbda5ad1221))
+* **internal:** remove redundant imports config ([2d71484](https://github.com/brandnholl/doge-sdk/commit/2d714841c5ba62193dac1cff964dba205ac88447))
+* **internal:** update comment in script ([461fc95](https://github.com/brandnholl/doge-sdk/commit/461fc9522745b2316a174efd00e4c35a5c1350ce))
+* **internal:** version bump ([5b667ae](https://github.com/brandnholl/doge-sdk/commit/5b667aef27450f2f9f45a2cccd5f2167d3398cf3))
+* make some internal functions async ([9b4a872](https://github.com/brandnholl/doge-sdk/commit/9b4a872a51d1a0891adb1889766e70ebf194978c))
+* **ts:** reorder package.json imports ([5b134e1](https://github.com/brandnholl/doge-sdk/commit/5b134e1610bb4674ea5695e593e929954e518745))
+* update @stainless-api/prism-cli to v5.15.0 ([461e3c3](https://github.com/brandnholl/doge-sdk/commit/461e3c3899a4269e548c28f6408d01ed482ca2f2))
+* update CI script ([53dd5b4](https://github.com/brandnholl/doge-sdk/commit/53dd5b401242cf246789104a5a33d10cba495d49))
+
 ## 2.2.2 (2025-06-27)
 
 Full Changelog: [v2.2.1...v2.2.2](https://github.com/brandnholl/doge-sdk/compare/v2.2.1...v2.2.2)

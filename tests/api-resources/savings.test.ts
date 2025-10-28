@@ -8,7 +8,7 @@ const client = new Doge({
 });
 
 describe('resource savings', () => {
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('listContracts', async () => {
     const responsePromise = client.savings.listContracts();
     const rawResponse = await responsePromise.asResponse();
@@ -20,7 +20,7 @@ describe('resource savings', () => {
     expect(dataAndResponse.response).toBe(rawResponse);
   });
 
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('listContracts: request options and params are passed correctly', async () => {
     // ensure the request options are being passed correctly by passing an invalid HTTP method in order to cause an error
     await expect(
@@ -31,7 +31,7 @@ describe('resource savings', () => {
     ).rejects.toThrow(Doge.NotFoundError);
   });
 
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('listGrants', async () => {
     const responsePromise = client.savings.listGrants();
     const rawResponse = await responsePromise.asResponse();
@@ -43,7 +43,7 @@ describe('resource savings', () => {
     expect(dataAndResponse.response).toBe(rawResponse);
   });
 
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('listGrants: request options and params are passed correctly', async () => {
     // ensure the request options are being passed correctly by passing an invalid HTTP method in order to cause an error
     await expect(
@@ -54,7 +54,7 @@ describe('resource savings', () => {
     ).rejects.toThrow(Doge.NotFoundError);
   });
 
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('listLeases', async () => {
     const responsePromise = client.savings.listLeases();
     const rawResponse = await responsePromise.asResponse();
@@ -66,7 +66,7 @@ describe('resource savings', () => {
     expect(dataAndResponse.response).toBe(rawResponse);
   });
 
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('listLeases: request options and params are passed correctly', async () => {
     // ensure the request options are being passed correctly by passing an invalid HTTP method in order to cause an error
     await expect(
