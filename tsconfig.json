@@ -7,10 +7,9 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "baseUrl": "./",
     "paths": {
-      "@departmentofgovernmentefficiency/sdk/*": ["src/*"],
-      "@departmentofgovernmentefficiency/sdk": ["src/index.ts"]
+      "@departmentofgovernmentefficiency/sdk/*": ["./src/*"],
+      "@departmentofgovernmentefficiency/sdk": ["./src/index.ts"]
     },
     "noEmit": true,
 
