@@ -1,5 +1,23 @@
 # Changelog
 
+## 2.3.1 (2025-12-06)
+
+Full Changelog: [v2.3.0...v2.3.1](https://github.com/brandnholl/doge-sdk/compare/v2.3.0...v2.3.1)
+
+### Bug Fixes
+
+* **mcp:** correct code tool API endpoint ([47e4842](https://github.com/brandnholl/doge-sdk/commit/47e48427592672ca7d5bf08c4d4a422489e98323))
+* **mcp:** return correct lines on typescript errors ([9bbcb41](https://github.com/brandnholl/doge-sdk/commit/9bbcb41d076d38e3026201dfc67e704dfe302caa))
+
+
+### Chores
+
+* **client:** fix logger property type ([39c3542](https://github.com/brandnholl/doge-sdk/commit/39c35426003203929353c57a0f2d2da71d3728e1))
+* **internal:** codegen related update ([a2f90fd](https://github.com/brandnholl/doge-sdk/commit/a2f90fdb43ac5cff17ac82dd1300cd8492f78543))
+* **internal:** codegen related update ([a9cfe4c](https://github.com/brandnholl/doge-sdk/commit/a9cfe4c1da6e9d5e65daad2edbab9203c4cf2c58))
+* **internal:** codegen related update ([6d3fb3d](https://github.com/brandnholl/doge-sdk/commit/6d3fb3dd91e378a206e3b83ae516bfe7343db7d5))
+* **internal:** upgrade eslint ([b1a9600](https://github.com/brandnholl/doge-sdk/commit/b1a9600c1ed81b4dd2e78db9e7af02beadf387f7))
+
 ## 2.3.0 (2025-08-23)
 
 Full Changelog: [v2.2.2...v2.3.0](https://github.com/brandnholl/doge-sdk/compare/v2.2.2...v2.3.0)
