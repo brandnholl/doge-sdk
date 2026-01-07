@@ -25,7 +25,12 @@ describe('resource savings', () => {
     // ensure the request options are being passed correctly by passing an invalid HTTP method in order to cause an error
     await expect(
       client.savings.listContracts(
-        { page: 1, per_page: 1, sort_by: 'savings', sort_order: 'asc' },
+        {
+          page: 1,
+          per_page: 1,
+          sort_by: 'savings',
+          sort_order: 'asc',
+        },
         { path: '/_stainless_unknown_path' },
       ),
     ).rejects.toThrow(Doge.NotFoundError);
@@ -48,7 +53,12 @@ describe('resource savings', () => {
     // ensure the request options are being passed correctly by passing an invalid HTTP method in order to cause an error
     await expect(
       client.savings.listGrants(
-        { page: 1, per_page: 1, sort_by: 'savings', sort_order: 'asc' },
+        {
+          page: 1,
+          per_page: 1,
+          sort_by: 'savings',
+          sort_order: 'asc',
+        },
         { path: '/_stainless_unknown_path' },
       ),
     ).rejects.toThrow(Doge.NotFoundError);
@@ -71,7 +81,12 @@ describe('resource savings', () => {
     // ensure the request options are being passed correctly by passing an invalid HTTP method in order to cause an error
     await expect(
       client.savings.listLeases(
-        { page: 1, per_page: 1, sort_by: 'savings', sort_order: 'asc' },
+        {
+          page: 1,
+          per_page: 1,
+          sort_by: 'savings',
+          sort_order: 'asc',
+        },
         { path: '/_stainless_unknown_path' },
       ),
     ).rejects.toThrow(Doge.NotFoundError);
