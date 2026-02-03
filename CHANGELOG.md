@@ -1,5 +1,22 @@
 # Changelog
 
+## 2.3.2 (2026-02-03)
+
+Full Changelog: [v2.3.1...v2.3.2](https://github.com/brandnholl/doge-sdk/compare/v2.3.1...v2.3.2)
+
+### Bug Fixes
+
+* **client:** avoid memory leak with abort signals ([4c5c763](https://github.com/brandnholl/doge-sdk/commit/4c5c763911d68eaf4c1ab5e0dfe8e653f63f4fe6))
+
+
+### Chores
+
+* break long lines in snippets into multiline ([65d7d02](https://github.com/brandnholl/doge-sdk/commit/65d7d02a94a16ed8100b49b719d61fead56b8459))
+* **ci:** upgrade `actions/github-script` ([715e6d7](https://github.com/brandnholl/doge-sdk/commit/715e6d7fb44f2fbee706352ae9b30a32674af0e4))
+* **internal:** codegen related update ([25b6d7e](https://github.com/brandnholl/doge-sdk/commit/25b6d7e6af2ee61a0dc45ebaa73bed802b5549f0))
+* **internal:** update `actions/checkout` version ([066ca17](https://github.com/brandnholl/doge-sdk/commit/066ca1712b386e1a180b2af7ccf2bfd16a308afd))
+* **internal:** upgrade babel, qs, js-yaml ([a24aa38](https://github.com/brandnholl/doge-sdk/commit/a24aa3893cf20fed689767a834dd3ba881589fa4))
+
 ## 2.3.1 (2025-12-06)
 
 Full Changelog: [v2.3.0...v2.3.1](https://github.com/brandnholl/doge-sdk/compare/v2.3.0...v2.3.1)
