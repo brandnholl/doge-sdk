@@ -1,5 +1,19 @@
 # Changelog
 
+## 2.3.3 (2026-02-06)
+
+Full Changelog: [v2.3.2...v2.3.3](https://github.com/brandnholl/doge-sdk/compare/v2.3.2...v2.3.3)
+
+### Bug Fixes
+
+* **client:** avoid removing abort listener too early ([93652f1](https://github.com/brandnholl/doge-sdk/commit/93652f150b5b4535c056e7512cee90f305abb6e4))
+
+
+### Chores
+
+* **client:** do not parse responses with empty content-length ([8e25a4e](https://github.com/brandnholl/doge-sdk/commit/8e25a4ed049472b407183d700aee2a97ea7edaed))
+* **client:** restructure abort controller binding ([85b3a31](https://github.com/brandnholl/doge-sdk/commit/85b3a31f86869aed9806e6eccfde9388ce66d417))
+
 ## 2.3.2 (2026-02-03)
 
 Full Changelog: [v2.3.1...v2.3.2](https://github.com/brandnholl/doge-sdk/compare/v2.3.1...v2.3.2)
