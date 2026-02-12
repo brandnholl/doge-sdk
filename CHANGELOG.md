@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.3.4 (2026-02-12)
+
+Full Changelog: [v2.3.3...v2.3.4](https://github.com/brandnholl/doge-sdk/compare/v2.3.3...v2.3.4)
+
+### Chores
+
+* **internal:** avoid type checking errors with ts-reset ([5b4cf15](https://github.com/brandnholl/doge-sdk/commit/5b4cf1598dcdb4af4ca471c71047538f13716374))
+
 ## 2.3.3 (2026-02-06)
 
 Full Changelog: [v2.3.2...v2.3.3](https://github.com/brandnholl/doge-sdk/compare/v2.3.2...v2.3.3)
