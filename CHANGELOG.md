@@ -1,5 +1,16 @@
 # Changelog
 
+## 2.3.4 (2026-02-20)
+
+Full Changelog: [v2.3.3...v2.3.4](https://github.com/brandnholl/doge-sdk/compare/v2.3.3...v2.3.4)
+
+### Chores
+
+* **internal/client:** fix form-urlencoded requests ([08c7248](https://github.com/brandnholl/doge-sdk/commit/08c7248ac2f8d95e17c0d61d426c1548fa1515e1))
+* **internal:** avoid type checking errors with ts-reset ([5b4cf15](https://github.com/brandnholl/doge-sdk/commit/5b4cf1598dcdb4af4ca471c71047538f13716374))
+* **internal:** remove mock server code ([81c7002](https://github.com/brandnholl/doge-sdk/commit/81c70023475b9b08712bc60d4e38063cb52f2cad))
+* update mock server docs ([5474d45](https://github.com/brandnholl/doge-sdk/commit/5474d4584805e93260a1b327fff12d78d43e8e2a))
+
 ## 2.3.3 (2026-02-06)
 
 Full Changelog: [v2.3.2...v2.3.3](https://github.com/brandnholl/doge-sdk/compare/v2.3.2...v2.3.3)
