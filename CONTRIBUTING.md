@@ -60,7 +60,7 @@ $ yarn link @departmentofgovernmentefficiency/sdk
 # With pnpm
 $ pnpm link --global
 $ cd ../my-package
-$ pnpm link -—global @departmentofgovernmentefficiency/sdk
+$ pnpm link --global @departmentofgovernmentefficiency/sdk
 ```
 
 ## Running tests
