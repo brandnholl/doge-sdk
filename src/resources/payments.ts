@@ -4,6 +4,9 @@ import { APIResource } from '../core/resource';
 import { APIPromise } from '../core/api-promise';
 import { RequestOptions } from '../internal/request-options';
 
+/**
+ * Payments made by the US Government. Currently, this includes a limited amount of grant payments issued from the Program Support Center, but will expand to include all payments from the US Government.
+ */
 export class Payments extends APIResource {
   /**
    * Get payment line items from a subset of agencies using Program Management
