@@ -737,7 +737,13 @@ export class Doge {
 
   static toFile = Uploads.toFile;
 
+  /**
+   * Grants, contracts and leases the Department of Government Efficiency has cancelled.
+   */
   savings: API.Savings = new API.Savings(this);
+  /**
+   * Payments made by the US Government. Currently, this includes a limited amount of grant payments issued from the Program Support Center, but will expand to include all payments from the US Government.
+   */
   payments: API.Payments = new API.Payments(this);
 }
 
