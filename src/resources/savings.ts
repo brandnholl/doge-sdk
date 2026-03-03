@@ -4,6 +4,9 @@ import { APIResource } from '../core/resource';
 import { APIPromise } from '../core/api-promise';
 import { RequestOptions } from '../internal/request-options';
 
+/**
+ * Grants, contracts and leases the Department of Government Efficiency has cancelled.
+ */
 export class Savings extends APIResource {
   /**
    * Get contract savings
