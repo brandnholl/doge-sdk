@@ -1,5 +1,21 @@
 # Changelog
 
+## 2.3.5 (2026-03-07)
+
+Full Changelog: [v2.3.4...v2.3.5](https://github.com/brandnholl/doge-sdk/compare/v2.3.4...v2.3.5)
+
+### Bug Fixes
+
+* **client:** preserve URL params already embedded in path ([8c84cea](https://github.com/brandnholl/doge-sdk/commit/8c84cea17596c230beebea1e7543aac555cc1ea9))
+
+
+### Chores
+
+* **ci:** skip uploading artifacts on stainless-internal branches ([5378e2b](https://github.com/brandnholl/doge-sdk/commit/5378e2bb52472ad803b798d99e3374d6c2ccaa85))
+* **internal:** codegen related update ([718de1c](https://github.com/brandnholl/doge-sdk/commit/718de1caff30397dc58b8f97aa7bea8cac6b010e))
+* **internal:** codegen related update ([bb52fc1](https://github.com/brandnholl/doge-sdk/commit/bb52fc11ead4d035faf2e5f9068e7ef7601009ef))
+* **internal:** move stringifyQuery implementation to internal function ([7d64249](https://github.com/brandnholl/doge-sdk/commit/7d642496dd02942b2228326a241c3c2156b5d48d))
+
 ## 2.3.4 (2026-02-24)
 
 Full Changelog: [v2.3.3...v2.3.4](https://github.com/brandnholl/doge-sdk/compare/v2.3.3...v2.3.4)
