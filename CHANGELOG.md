@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.3.6 (2026-03-10)
+
+Full Changelog: [v2.3.5...v2.3.6](https://github.com/brandnholl/doge-sdk/compare/v2.3.5...v2.3.6)
+
+### Chores
+
+* **internal:** update dependencies to address dependabot vulnerabilities ([a17cf52](https://github.com/brandnholl/doge-sdk/commit/a17cf52fd3e479a72173b1d2724c446887cacd28))
+
 ## 2.3.5 (2026-03-07)
 
 Full Changelog: [v2.3.4...v2.3.5](https://github.com/brandnholl/doge-sdk/compare/v2.3.4...v2.3.5)
